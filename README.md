@@ -1,2 +1,7 @@
-# dwa-p1
-Project 1 for the course Dynamic Web Applications, HES Fall'18
+# Project 1
++ By: *Venkatesh Mantha*
++ Production URL: <http://p1.venkateshmantha.me>
+
+## Outside resources
+*http://w3schools.com/* for CSS styling
+
