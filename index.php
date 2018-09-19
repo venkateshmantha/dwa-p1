@@ -1,7 +1,7 @@
 <?php require('getRandom.php'); ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <title>P1</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,7 +24,7 @@
 <div class="w3-col l4">
   <!-- About Card -->
   <div class="card">
-  <img src="images/photo.JPG" style="width:100%">
+  <img src="images/photo.JPG" alt="profile" style="width:100%">
     <div class="container white">
     	
       	<h4 class="center"><b>About</b></h4>
